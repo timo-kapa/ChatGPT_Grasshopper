@@ -1,13 +1,4 @@
-﻿"""Provides a scripting component.
-    Inputs:
-        x: The x script variable
-        y: The y script variable
-    Output:
-        a: The a output variable"""
-                
-__author__ = "302333"
-__version__ = "2023.04.21"
-                
+              
 import rhinoscriptsyntax as rs
 import urllib2
 import json
